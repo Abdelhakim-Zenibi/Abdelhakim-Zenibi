@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href='https://github.com/Abdelhakim-Zenibi/Abdelhakim-Zenibi'></a>I'm <a href="https://github.com/Abdelhakim-Zenibi">Abdelhakim Zenibi</a></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, <a href='https://github.com/Abdelhakim-Zenibi/Abdelhakim-Zenibi'></a>I'm <a href="https://github.com/Abdelhakim-Zenibi">Abdelhakim Zenibi</a></h1>
 <h3 align="center">Data & AI engineering</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
