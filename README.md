@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <a href='https://github.com/Abdelhakim-Zenibi/Abdelhakim-Zenibi'></a>I'm <a href="https://github.com/Abdelhakim-Zenibi">Abdelhakim Zenibi</a></h1>
-<h3 align="center">Data & AI engineering</h3>
+<h3 align="center">Data Scientist and AI Researcher</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 ## <h3 align="left">About me:</h3>
